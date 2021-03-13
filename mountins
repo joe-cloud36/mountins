@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title> mountins </title>
+</head>
+
+
+<body>
+<center><h1>in this web we are going to lern about mountins in china and pacistan<h1></center>
+<img src="photos/mountin banner.PNG" width="100%"/>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <h3>pacistans mountins</h3>
+<a href=".html"><img src="photos/pacistan.jpg" width="400px"/></a>
+<a class="btn btn-danger" href="pacistan.html">Read More </a>
+      <p>welcome to pacistan mountins</p>
+    </div>
+
+
+
+</body>
+
+<html>
